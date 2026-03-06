@@ -10,7 +10,7 @@ INTERNSHIP DURATION : 6 WEEKS
 
 INTERN ID : CTIS5094
 
-INTERNSHIP MENTOR : NEELA SANTOSH
+MENTOR : NEELA SANTOSH
 
 Optimization Using Linear Programming with PuLP
 Project Overview
